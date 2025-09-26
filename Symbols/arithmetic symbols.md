@@ -7,6 +7,10 @@ They are basically the foundations of math and they area used daily.
 - $+$, plus sign: used for addition, to add one number to another. It is read "plus". For example, $3+2$. It is also used for denotating **positive** numbers, for example: $+2$.
   
 - $−$, minus sign: used for subtraction, to remove one number to another. It is read "minus". For example, $3−2$ . It is also used for denotating **negative** numbers, for example: $-2$.
+
+- $\pm$, plus-minus sign: used for addition or subtraction, to **add or to remove** one number to another. Is is read "plus minus". For example, $3 \pm 2$, which is equal to $5$ or $1$.
+
+- $\mp$, minus-plus sign: pretty much the same as plus-minus sign, generally used in **conjunction with the plus-minus sign**, $x \pm y \mp z$. For example, $2 + 3 - 1$ or $2 - 3 + 1$, but not $2 - 3 - 1$.
   
 - $×$, multiplication sign: used for multiplication, to multiply one number to another. It is read "times". For example, $3×2$. In algebra, you'll see $n x$ (where $n$ is any number), without the $⋅$ or the $×$, for example: $3x$.
   In linear algebra and geometry, it denotes the **cross-product** (or vector-product). In set theory, denotes the **cartesian-product** and the **direct-product**.
@@ -20,7 +24,7 @@ They are basically the foundations of math and they area used daily.
 
 - $\frac{n}{m}$, fraction sign: used for division. It is read "divided by" or "over". For example, $\frac {6}{3}$.
 
-- $n \ mod \ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \ mod \ 3$.
+- $n \; mod \;m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \; mod \;3$.
 
 - $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3$.
 
@@ -31,3 +35,5 @@ They are basically the foundations of math and they area used daily.
 
 - $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
 
+
+## 
