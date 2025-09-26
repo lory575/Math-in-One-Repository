@@ -31,7 +31,7 @@ They are basically the foundations of math and they area used daily.
 - $\sqrt[m]{n}$, radical or root sign: used for the root operation, which is the **inverse operation of the exponentiation**, where n is "rooted" by m times. It is read "root". For example, $\sqrt[3]{8}$.
   If m isn't written, it simply means "square root", which is $m = 2$, for example $\sqrt {4} = 2$, because $2^2 = 4$.
 
-- $\log_{m} n$, log sign: used for the logarithm operation, which gives the **exponent value**, where n is the exponentiation value and m is the base. It is read "log". For example, $\log_{10} 1000$. If m isn't written or it $\log$ is written $\ln$, it means logarithm with $m = e$, where $e$ is the Euler's Number. This is also called **natural logarithm**.
+- $\log_{m} n$, log sign: used for the logarithm operation, which gives the **exponent value**, where n is the exponentiation value and m is the base. It is read "log". For example, $\log_{10} 1000$. If m isn't written or $\log$ is written $\ln$, it means logarithm with $m = e$, where $e$ is the Euler's Number. This is also called **natural logarithm**.
 
 - $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
 
