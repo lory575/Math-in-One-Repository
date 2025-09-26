@@ -20,7 +20,7 @@ They are basically the foundations of math and they area used daily.
 
 - $\frac{n}{m}$, fraction sign: used for division. It is read "divided by" or "over". For example, $\frac {6}{3}$.
 
-- $n \; mod \;m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \; mod \;3$.
+- $n \ mod \ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \ mod \ 3$.
 
 - $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3$.
 
