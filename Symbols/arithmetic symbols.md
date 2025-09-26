@@ -29,5 +29,5 @@ They are basically the foundations of math and they area used daily.
 
 - $\log_{m} n$, log sign: used for the logarithm operation, which gives the **exponent value**, where n is the exponentiation value and m is the base. It is read "log". For example, $\log_{10} 1000$.
 
-- $n!$, factorial sign: used for factorial, where n is multiplied by its previous number and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
+- $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
 
