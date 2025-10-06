@@ -1,5 +1,3 @@
-## Arithmetic Symbols
-
 These are all the symbols used to in Arithmetic!
 
 They are basically the foundations of math and they area used daily.
@@ -35,5 +33,7 @@ They are basically the foundations of math and they area used daily.
 
 - $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
 
+- $\sum_{i = a} ^ b  n$, summation sign: used for summation, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "summation". For example, $\sum_{i=1}  ^9 2 + i = (2 + 1) + (2 + 2) + (2 + 3) + (2 + 4) + (2 + 5) + (2 + 6) + (2 + 7) + (2 + 8) + (2 + 9) = 3 + 4 + 5 + 6 + 7 + 8 + 9 = 42$ It also denotes a series, which is an **infinite sum where b is infinite**.
+  yes, sigma.
 
-## 
+- $\prod_{i = a} ^b n$, product sign: used for product, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "product". For example, $\prod_{i = 1} ^9 2 + i = (2 + 1)(2 + 2)(2 + 3)(2 + 4)(2 + 5)(2 + 6)(2 + 7)(2 + 8)(2 + 9) = 3 × 4 × 5 × 6 × 7 × 8 × 9 = 181440$. It also denotes a series, which is an **infinite product where b is infinite**.
