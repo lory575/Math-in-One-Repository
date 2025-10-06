@@ -48,8 +48,9 @@ They are basically the foundations of math and they area used daily.
 <br>
 
 - $\sum_{i = a} ^ b  n$, summation sign: used for summation, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "summation". For example, $\sum_{i=1}  ^9 2 + i = (2 + 1) + (2 + 2) + (2 + 3) + (2 + 4) + (2 + 5) + (2 + 6) + (2 + 7) + (2 + 8) + (2 + 9) = 3 + 4 + 5 + 6 + 7 + 8 + 9 = 42$ It also denotes a series, which is an **infinite sum where b is infinite**.
-  yes, sigma.
- <br>
+yes, sigma.
+<br>
 
-- $\prod_{i = a} ^b n$, product sign: used for product, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "product". For example,$\prod_{i = 1} ^9 2 + i = (2 + 1)(2 + 2)(2 + 3)(2 + 4)(2 + 5)(2 + 6)(2 + 7)(2 + 8)(2 + 9) = 3 × 4 × 5 × 6 × 7 × 8 × 9 = 181440$It also denotes a series, which is an **infinite product where b is infinite**.
- <br>
+- $\prod_{i = a} ^b n$, product sign: used for product, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "product". For example, $\prod_{i = 1} ^9 2 + i = (2 + 1)(2 + 2)(2 + 3)(2 + 4)(2 + 5)(2 + 6)(2 + 7)(2 + 8)(2 + 9) = 3 × 4 × 5 × 6 × 7 × 8 × 9 = 181440$
+It also denotes a series, which is an **infinite product where b is infinite**.
+<br>
