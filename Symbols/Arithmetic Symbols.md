@@ -1,6 +1,5 @@
 These are all the symbols used to in Arithmetic!
-
-They are basically the foundations of math and they area used daily.
+They are basically the foundations of math and they are used daily.
 
 - $+$, plus sign: used for addition, to add one number to another. It is read "plus". For example, $3+2$. It is also used for denotating **positive** numbers, for example: $+2$.
 <br>
