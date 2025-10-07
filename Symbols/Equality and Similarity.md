@@ -7,7 +7,7 @@ These are symbols to use to denote an equality or similarity between some values
 - $\ne$, not-equal sign: used for inequality, to tell that two or more values are NOT equal, **not the same thing**. It is read "not equal". For example, $2 \ne 3$.
 <br>
 
-- $\approx$, approximate sign: used for approximation, to tell that one value is almost equal or around the true value, **closer to the true value**. For example, $\pi \approx 3.14$. _That's because $\pi$ is an irrational number and we cannot write all the infinite decimal numbers, so for let us simplify operations, we just put this sign and approximate it.
+- $\approx$, approximate sign: used for approximation, to tell that one value is almost equal or around the true value, **closer to the true value**. For example, $\pi \approx 3.14$. _That's because_ $\pi$ _is an irrational number and we cannot write all the infinite decimal numbers, so for let us simplify operations, we just put this sign and approximate it.
 <br>_
 
 - $\sim$, tilde sign: used for equivalence, to tell an equivalence relation between two values or **proportionality**. It is read "tilde". For example, $x \sim y$. It is also used in probability and statistics to denote the **probability distribution of a random variable**. 
