@@ -30,10 +30,10 @@ They are basically the foundations of math and they are used daily.
 - $\frac{n}{m}$, fraction sign: used for division. It is read "divided by" or "over". For example, $\frac {6}{3}$.
  <br>
 
-- $n \\ mod \\ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \\ mod \\ 3$.
+- $n \; mod \;m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \; mod \;3$.
 <br>
 
-- $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3$.
+- $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3 = 2 * 2 * 2 = 8$.
 <br>
 
 - $\sqrt[m]{n}$, radical or root sign: used for the root operation, which is the **inverse operation of the exponentiation**, where n is "rooted" by m times. It is read "root". For example, $\sqrt[3]{8}$.
@@ -43,13 +43,12 @@ They are basically the foundations of math and they are used daily.
 - $\log_{m} n$, log sign: used for the logarithm operation, which gives the **exponent value**, where n is the exponentiation value and m is the base. It is read "log". For example, $\log_{10} 1000$. If m isn't written or $\log$ is written $\ln$, it means logarithm with $m = e$, where $e$ is the Euler's Number. This is also called **natural logarithm**.
 <br>
 
-- $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3!$.
+- $n!$, factorial sign: used for factorial, where n is **multiplied by its previous number** and by its previous previous number until it gets to 1. It is read "factorial". For example, $3! = 3 * 2 * 1 = 6$.
 <br>
 
 - $\sum_{i = a} ^ b  n$, summation sign: used for summation, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "summation". For example, $\sum_{i=1}  ^9 2 + i = (2 + 1) + (2 + 2) + (2 + 3) + (2 + 4) + (2 + 5) + (2 + 6) + (2 + 7) + (2 + 8) + (2 + 9) = 3 + 4 + 5 + 6 + 7 + 8 + 9 = 42$ It also denotes a series, which is an **infinite sum where b is infinite**.
-yes, sigma.
-<br>
+  yes, sigma.
+ <br>
 
 - $\prod_{i = a} ^b n$, product sign: used for product, where $i$ **stands for index and it indicates the start number, $b$ is the final number, $n$ is the operation**. It is read "product". For example, $\prod_{i = 1} ^9 2 + i = (2 + 1)(2 + 2)(2 + 3)(2 + 4)(2 + 5)(2 + 6)(2 + 7)(2 + 8)(2 + 9) = 3 × 4 × 5 × 6 × 7 × 8 × 9 = 181440$
-It also denotes a series, which is an **infinite product where b is infinite**.
-<br>
+  It also denotes a series, which is an **infinite product where b is infinite**.
