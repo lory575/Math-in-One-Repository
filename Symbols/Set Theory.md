@@ -15,16 +15,16 @@ These are symbols used in the Set Theory. Might be hard to read, so tell me if i
 - $\notin$, not-in sign: used to indicate if a number **is NOT in the set**. It is read "is not in" or "does not belong to" or "is not a member of". For example, $a \notin B$.
 <br>
   
-- $\subset$, subset sign: used to indicate if a set **is a subset of another set**. It is read "subset". For example, $A = \\{1, 2, 3\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $A \subset B$. Since $B$ **contains all the elements of** $A$, then $A$ is a subset of $B$.
+- $\subset$, subset sign: used to indicate if a set **is a proper subset of another set**. It is read "subset". For example, $A = \\{1, 2, 3\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $A \subset B$. Since $B$ **contains all the elements of** $A$, then $A$ is a subset of $B$.
 <br>
   
-- $\subseteq$, subset-or-equal sign: used to indicate if a set **is a subset or equal of another set**. It is read "subset or equal" or simply "subset" (thus it makes a bit misunderstanding). For example, $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $A \subseteq B$. Since $B$ **contains all the elements of** $A$, then $A$ is a subset or equal to $B$.
+- $\subseteq$, subset-or-equal sign: used to indicate if a set **is a subset or equal of another set**. It is read "subset or equal" or simply "subset" (thus it makes a bit misunderstanding). For example, $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $A \subseteq B$. Since $B$ **contains some (or all) the elements of** $A$, then $A$ is a subset or equal to $B$.
 <br>
   
-- $\supset$, supset sign: used to indicate if a set **is a superset of another set**. It is read "supset" or "superset". For example, $A = \\{1, 2, 3\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $B \supset A$. Since $A$ **contains some of the elements of** $B$, then $B$ is a superset of $A$.
+- $\supset$, supset sign: used to indicate if a set **is a proper superset of another set**. It is read "supset" or "superset". For example, $A = \\{1, 2, 3\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $B \supset A$. Since $A$ **contains some of the elements of** $B$, then $B$ is a superset of $A$.
 <br>
   
-- $\supseteq$, supset-or-equal sign: used to indicate if a set **is a subset or equal of another set**. It is read "supset or equal" or simply "supset" (thus it makes a bit misunderstanding). For example, $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $B \supseteq A$. Since $A$ **contains some (or all) of the elements of** $B$, then $B$ is a subset or equal to $A$.
+- $\supseteq$, supset-or-equal sign: used to indicate if a set **is a superset or equal of another set**. It is read "supset or equal" or simply "supset" (thus it makes a bit misunderstanding). For example, $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{1, 2, 3, 4, 5\\}$, then $B \supseteq A$. Since $A$ **contains some (or all) of the elements of** $B$, then $B$ is a subset or equal to $A$.
 <br>
   
 - $\cup$, union sign: used to indicate an **union between two sets**. It is read "union" or "united". For example, $A = \\{1, 2, 3\\}$ and $B = \\{3, 4\\}$, then $A \cup B = \\{1, 2, 3, 4\\}$.
