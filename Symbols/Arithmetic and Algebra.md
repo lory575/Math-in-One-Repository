@@ -33,7 +33,7 @@ They are basically the foundations of math and they are used daily.
 - $\frac{n}{m}$, fraction sign: used for division. It is read "divided by" or "over". For example, $\frac {6}{3}$.
  <br>
  
- - $\%$, percent sign: used for percentage, to **express a number as a fraction of $100$**, to **express a proportionate part of a total**. It is read "percent". For example, there's a discount on bread of $20\%$ of its original price, which was $1.50$€. What's its price now? The $20\%$ of $1.50$, which is $\frac{1.50 * 20}{100} = 0.3$, so $1.50 - 0.30 = 1.20$. The bread now costs $1.20$€. It can be also calculated by making $20\% = \frac{20}{100} = 0.2$, so $1.50 * 0.20 = 0.30$, so $1.50 - 0.30 = 1.20$. It's a subtraction because it's a discount, so we need to remove the percentage's value to the original price. Anyway, there are plenty of examples on how to use it.
+ - $\\%$, percent sign: used for percentage, to **express a number as a fraction of $100$**, to **express a proportionate part of a total**. It is read "percent". For example, there's a discount on bread of $20\%$ of its original price, which was $1.50$€. What's its price now? The $20\\%$ of $1.50$, which is $\frac{1.50 * 20}{100} = 0.3$, so $1.50 - 0.30 = 1.20$. The bread now costs $1.20$€. It can be also calculated by making $20\\% = \frac{20}{100} = 0.2$, so $1.50 * 0.20 = 0.30$, so $1.50 - 0.30 = 1.20$. It's a subtraction because it's a discount, so we need to remove the percentage's value to the original price. Anyway, there are plenty of examples on how to use it.
  <br>
  
 - $n \ mod \ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \ mod \ 3$.
