@@ -33,13 +33,13 @@ They are basically the foundations of math and they are used daily.
 - $\frac{n}{m}$, fraction sign: used for division. It is read "divided by" or "over". For example, $\frac {6}{3}$.
  <br>
  
- - $\\%$, percent sign: used for percentage, to **express a number as a fraction of $100$**, to **express a proportionate part of a total**. It is read "percent". For example, there's a discount on bread of $20\\%$ of its original price, which was $1.50$€. What's its price now? The $20\\%$ of $1.50$, which is $\frac{1.50 * 20}{100} = 0.3$, so $1.50 - 0.30 = 1.20$. The bread now costs $1.20$€. It can be also calculated by making $20\\% = \frac{20}{100} = 0.2$, so $1.50 * 0.20 = 0.30$, so $1.50 - 0.30 = 1.20$. It's a subtraction because it's a discount, so we need to remove the percentage's value to the original price. Anyway, there are plenty of examples on how to use it.
+ - $\%$, percent sign: used for percentage, to **express a number as a fraction of $100$**, to **express a proportionate part of a total**. It is read "percent". For example, there's a discount on bread of $20\%$ of its original price, which was $1.50$€. What's its price now? The $20\%$ of $1.50$, which is $\frac{1.50 * 20}{100} = 0.3$, so $1.50 - 0.30 = 1.20$. The bread now costs $1.20$€. It can be also calculated by making $20\% = \frac{20}{100} = 0.2$, so $1.50 * 0.20 = 0.30$, so $1.50 - 0.30 = 1.20$. It's a subtraction because it's a discount, so we need to remove the percentage's value to the original price. Anyway, there are plenty of examples on how to use it.
  <br>
  
-- $n \\ mod \\ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \\ mod \\ 3$.
+- $n \ mod \ m$, modulo sign: used for the modulo operation in modular arithmetic, to get the **remainder** of two values when they are divided. It is read "modulo". For example, $10 \ mod \ 3$.
 <br>
 
-- $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3 = 2 * 2 * 2 = 8$. If there's $m$ that is a negative number, then $n$ becomes a fraction such as $n^{-m} = \frac{1}{n^m}$. For example, $2^{-3} = \frac{1}{2^3} = \frac{1}{8}$. If there's m that is a fractional number, then $n$ becomes a radical such as $n^\frac{a}{b} = \sqrt[b]{n^a}$. For example, $8^\frac{2}{3} = \sqrt[3]{8^2} = 2^2 = 4$.
+- $n^m$, power sign: used for exponentiation, which is **repeated multiplication**, where n is multiplied by itself m times. It is read "to the power of". For example,  $2^3 = 2 * 2 * 2 = 8$. If  $m$ is a negative number, then $n$ becomes a fraction such as $n^{-m} = \frac{1}{n^m}$. For example, $2^{-3} = \frac{1}{2^3} = \frac{1}{8}$. If m is a fractional number, then $n$ becomes a radical such as $n^\frac{a}{b} = \sqrt[b]{n^a}$. For example, $8^\frac{2}{3} = \sqrt[3]{8^2} = 2^2 = 4$.
 <br>
 
 - $\sqrt[m]{n}$, radical or root sign: used for the root operation, which is the **inverse operation of the exponentiation**, where n is "rooted" by m times. It is read "root". For example, $\sqrt[3]{8}$.
