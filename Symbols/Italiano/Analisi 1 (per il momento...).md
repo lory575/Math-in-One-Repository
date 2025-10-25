@@ -13,13 +13,21 @@ ANDIAMO IN ECONOMIA E FISICA CON QUESTO 🗣️​🔥
 <br>
 
 - $lim_{a \to n}$, limite: usato in analisi matematica, indica **cosa succede quando $a$ si avvicina a $n$.** Si legge "limite di". Ad esempio,
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(1) + 1}{1} = 2 + 1 = 3$,
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(0.5) + 1}{0.5} = \frac{2}{0.5} = 4$,
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(0.01) + 1}{0.01} = \frac{1.02}{0.01} = 102$,
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(0.001) + 1}{0,001} = \frac{1,002}{0,001} = 1002$,
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(0,00001) + 1}{0,0001} = \frac{1,0002}{0,0001} = 10002$,
+
 ...
+
 $lim_{x \to 0} f(x) = \frac{2x + 1}{x} = \frac{2(0) + 1}{0} = \frac{1}{0} = \infty$.
+
 <br>
 
 - $'$, notazione di Lagrange: utilizzata in analisi matematica, serve per calcolare la derivata, per **vedere la velocità di variazione quando si inserisce $f(x)$**. Si legge "derivata di f di x" o semplicemente "f primo". In notazione matematica, $f'(x) = lim_{h\to0} \frac{f(x + h) - f(x)}{h}$. Ad esempio, $f(x) = 2x + 1$, quindi $f'(x) = lim_{h\to0} \frac{2(x + h) + 1 - (2x + 1)}{h} = \frac{2x + 2h + 1 - 2x - 1}{h} = \frac{0x + 2h - 0}{h} = \frac{2h}{h} = 2$. Quando ci sono due o più $'$, significa derivata della derivata della derivata di...
